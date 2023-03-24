@@ -1,4 +1,4 @@
-# WGUPSRoutingApp
+# WGUPS Routing Application
 Western Governers University Postal Service Routing Application
 
 The WGU Postal Service Routing Application was created in response to the "Traveling Salesman Problem." 
