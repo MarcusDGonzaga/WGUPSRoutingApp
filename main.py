@@ -1,7 +1,6 @@
 # main.py
 # Author: Marcus Syldon Antino Dirige Gonzaga
-# Student ID: 001401104
-# Class: C950 Data Structures and Algorithms II
+# Class:Data Structures and Algorithms II
 # Project: WGUPS Routing Application
 
 # import statements
